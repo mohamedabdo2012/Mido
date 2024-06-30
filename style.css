@@ -19,7 +19,7 @@
 
 #mainDiv::before {
 content: "";
-background-image: linear-gradient(red, white, black);
+background-image: linear-gradient(red, white,black);
 position: absolute;
 right: 0;
 left: 0;
